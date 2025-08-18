@@ -19,4 +19,4 @@ It covers both basic concepts and practical applications for working with data.
 🚀 About This Portfolio
 This portfolio demonstrates my foundation in Python programming.  
 It is designed to showcase my ability to explore variables, handle data structures, and work with libraries like Pandas for data analysis and visualization.
-⭐ Feel free to check out the projects and connect with me for feedback or collaboration
+⭐ Feel free to check out the projects and connect with me at mahnoorfatim09@gmail.com for feedback or collaboration
